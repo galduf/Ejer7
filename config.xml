@@ -21,7 +21,7 @@
   <plugin name="cordova-plugin-splashscreen" />
   <plugin name="cordova-plugin-x-socialsharing" spec="5.4.0" />
   
-	 <icon src="138839.svg" />
+	 <icon src="icono.png" />
 	<splash src="descarga.jpg" />
 
 	<preference name="SplashScreenDelay" value="5000" />
